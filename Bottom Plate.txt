@@ -1,0 +1,9 @@
+Bottom Plate has over all dimensions of 14mm by 30mm
+
+Beveled surface to center hole as indicated in CAD drawings
+
+side holes 2.175 dia.
+
+center hole 6mm dia.
+
+4mm wide slot cut out from back to 1.5mm offset from middle circle
